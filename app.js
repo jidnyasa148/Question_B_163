@@ -1,1 +1,1 @@
-console.log("Welcome to Jenkins - 10222163");
+console.log("Jenkins build triggered - 10222163");
